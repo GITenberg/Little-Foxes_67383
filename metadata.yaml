@@ -1,0 +1,34 @@
+_repo: Little-Foxes_67383
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stowe, Harriet Beecher
+    aliases:
+    - Crowfield, Christopher
+    - Stowe, H. B. (Harriet Beecher)
+    - Stowe, Harriet Elizabeth Beecher
+    birthdate: 1811
+    deathdate: 1896
+    gutenberg_agent_id: '115'
+    url: http://www.gutenberg.org/2009/agents/115
+    wikipedia: https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+description: ''
+gutenberg_issued: '2022-02-12'
+identifiers:
+  gutenberg: '67383'
+language: en
+pgterms:marc904: https://archive.org/details/littlefoxes00stow/page/12/mode/2up
+pgterms:marc905: 20200329122421crowfield
+pgterms:marc906: '1865'
+pgterms:marc907: US
+production_note: Charlene Taylor, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :James R. Osgood  and Company,1865,pubdate 1875.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Little Foxes
+url: http://www.gutenberg.org/ebooks/67383
